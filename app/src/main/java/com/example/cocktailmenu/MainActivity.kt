@@ -1,11 +1,10 @@
-package com.example.cocktailmenu
+package com.example.cocktailmenu.ui
 
 import android.os.Bundle
 import android.view.Menu
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.RecyclerView
+import com.example.cocktailmenu.R
 
 class MainActivity : AppCompatActivity() {
     private lateinit var rvCocktail: RecyclerView
