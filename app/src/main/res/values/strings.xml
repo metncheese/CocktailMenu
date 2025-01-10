@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Cocktail Menu</string>
+    <string name="cocktail">Cocktail</string>
+    <string name="description">Deskripsi</string>
+    <string name="email">raihan4d53@gmail.com</string>
+    <string name="name">Muhammad Raihan Ardinegoro</string>
+    <string name="about_me">About Me</string>
+
+    <string-array name="data_name">
+        <item>Lychee Martini</item>
+        <item>Espresso Martini</item>
+        <item>Mojito</item>
+        <item>Old Fashion</item>
+        <item>Classic Negroni</item>
+        <item>Chocolate Martini</item>
+        <item>Tom Collins</item>
+        <item>Margarita</item>
+        <item>Long Island</item>
+        <item>Penicillin</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Lychee Martini is a cocktail inspired by the classic Martini but with a sweet and exotic touch from lychee fruit.
+            This drink is typically made with a blend of vodka, lychee liqueur, and lychee syrup or juice, then served in a Martini glass with a lychee garnish.</item>
+        <item>Espresso Martini is a cocktail that combines the bold flavor of coffee with a sweet and slightly bitter touch from the alcohol blend.
+            Despite its name containing "Martini," this drink does not actually use gin or vermouth like the classic Martini. Espresso Martini is popular as an energy-boosting drink and is often enjoyed as an after-dinner cocktail.</item>
+        <item>Mojito is a classic Cuban cocktail known for its refreshing blend of sweet, sour, and minty flavors.
+            This drink is based on white rum, complemented by fresh mint leaves, sugar, soda water, and lime juice, making it a popular choice to enjoy in hot weather.</item>
+        <item>Old Fashion is one of the oldest and most iconic classic cocktails, known for its rich, complex, and slightly bitter flavor.
+            This drink is based on whiskey (usually bourbon or rye), mixed with sugar, aromatic bitters, and a splash of water, then garnished with orange peel and a maraschino cherry.</item>
+        <item>Classic Negroni is a classic cocktail known for its bitter, sweet, and slightly herbal flavor.
+        This drink has a perfect balance between three main ingredients: gin, vermouth rosso (sweet red vermouth), and Campari. Negroni was first created in Italy in the early 20th century, and it remains one of the most popular cocktails worldwide to this day.</item>
+        <item>Chocolate Martini is a sweet cocktail that combines the flavor of chocolate with a touch of alcohol, creating a rich and enticing drink.
+            It is a popular choice for those who enjoy dessert beverages and is often enjoyed as a dessert after dinner or at parties.</item>
+        <item>Tom Collins is a classic cocktail that is refreshing with a light and slightly sour taste, perfect for hot weather.
+            This drink is known for its combination of gin, lemon juice, sugar, and soda water, providing a carbonated and fresh sensation.</item>
+        <item>Margarita is a classic cocktail known for its fresh, sour, and slightly sweet flavor, with a sharp touch of tequila.
+            Margarita is a classic cocktail known for its fresh, sour, and slightly sweet flavor, with a sharp touch of tequila.</item>
+        <item>Long Island is a cocktail known for its refreshing taste and strong alcohol content, although its name contains "Iced Tea," this drink does not actually contain any tea.
+            It is made from a mix of several types of alcohol and other ingredients, offering a complex flavor balance between sweet, sour, and a hint of bitterness.</item>
+        <item>Penicillin is a unique and flavorful cocktail, known for its combination of sweet, smoky, and slightly spicy flavors.
+            This drink combines scotch whiskey with other ingredients like honey, lemon, and ginger, creating a rich and layered cocktail. Penicillin was first created in the early 2000s by bartender Sam Ross in New York, who was inspired by classic drinks with a modern twist.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/lychee_martini</item>
+        <item>@drawable/espresso_martini</item>
+        <item>@drawable/mojito</item>
+        <item>@drawable/old_fashion</item>
+        <item>@drawable/classic_negroni</item>
+        <item>@drawable/chocolate_martini</item>
+        <item>@drawable/tom_collins</item>
+        <item>@drawable/margarita</item>
+        <item>@drawable/long_island</item>
+        <item>@drawable/penicillin</item>
+        <item>@drawable/wlcm_screen</item>
+    </integer-array>
+
+</resources>
