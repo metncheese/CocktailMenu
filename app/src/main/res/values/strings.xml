@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Cocktail Menu</string>
     <string name="cocktail">Cocktail</string>
-    <string name="description">Deskripsi</string>
+    <string name="description">Description</string>
     <string name="email">raihan4d53@gmail.com</string>
     <string name="name">Muhammad Raihan Ardinegoro</string>
     <string name="about_me">About Me</string>
@@ -54,6 +54,7 @@
         <item>@drawable/long_island</item>
         <item>@drawable/penicillin</item>
         <item>@drawable/wlcm_screen</item>
+        <item>@drawable/bckgrndabout</item>
     </integer-array>
 
 </resources>

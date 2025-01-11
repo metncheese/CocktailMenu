@@ -1,6 +1,6 @@
 package com.example.cocktailmenu.adapter
 
-import android.R
+import com.example.cocktailmenu.R
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
